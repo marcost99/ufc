@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ufc>
+	<card id="400" name="UFC Night">
+		<luta id="1">
+			<lutador id="1" name="Bruna Brasil"/>
+			<lutador id="2" name="Marina Rodriguez"/>
+		</luta>
+	</card>
+</ufc>
