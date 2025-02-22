@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace Enterprise.ApiWeb
+namespace UFC.ApiWeb.App_Start
 {
     public class FilterConfig
     {

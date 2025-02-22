@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
 
-namespace Enterprise.ApiWeb
+namespace UFC.ApiWeb.App_Start
 {
     public static class WebApiConfig
     {

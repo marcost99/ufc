@@ -1,4 +1,4 @@
-﻿namespace Enterprise.ApiWeb.Models
+﻿namespace UFC.ApiWeb.Models
 {
 	public class Fighter
 	{

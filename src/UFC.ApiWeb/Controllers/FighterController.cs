@@ -1,8 +1,8 @@
-﻿using Enterprise.ApiWeb.Models;
+﻿using UFC.ApiWeb.Models;
 using System.Collections.Generic;
 using System.Web.Http;
 
-namespace Enterprise.ApiWeb.Controllers
+namespace UFC.ApiWeb.Controllers
 {
     public class FighterController : ApiController
     {

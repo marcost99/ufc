@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Web.Http;
 using System.Web.Mvc;
+using UFC.ApiWeb.App_Start;
 
-namespace Enterprise.ApiWeb
+namespace UFC.ApiWeb
 {
 	public class Global : System.Web.HttpApplication
 	{
